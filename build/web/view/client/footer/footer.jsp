@@ -45,7 +45,7 @@
     </div>
     <div class="footer-bottom">
         <div class="footer-design">
-            <p>@CopyRight 7Seven 2021</p>
+            <p>@CopyRight 7Seven 2022</p>
         </div>
         <div class="footer-social">
             <i class="fab fa-facebook-square"></i>
