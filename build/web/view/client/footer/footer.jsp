@@ -17,7 +17,7 @@
         </ul>
         <div class="footer-support">
             <li class="footer-item"><a href="#">Hỗ trợ khách hàng</a></li>
-            <li class="footer-item"><a href="#">Hướng dẫn đặt hàng</a></li>
+            <li class="footer-item"><a href="${pageContext.request.contextPath}/view/client/orders">Hướng dẫn đặt hàng</a></li>
             <li class="footer-item"><a href="#">Hướng dẫn thanh toán</a></li>
             <li class="footer-item"><a href="#">Tuyển dụng</a></li>
             <li class="footer-item"><a href="https://www.facebook.com/7sevenmobile"  target="_blank">Đặt câu hỏi</a></li>
